@@ -9,11 +9,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  bunsen-yaru-icons deb x11 optional arch=all
 Checksums-Sha1:
- 456831a257667e750a980e0c6a145e404d977783 38447511 bunsen-yaru-icons_24.04.3.orig.tar.gz
- 1302495f937be2b685c9ef7ae29ba27b11ed736f 12028 bunsen-yaru-icons_24.04.3-1.1.debian.tar.xz
+ 1f926d5a8470c05b3d75e2e59d9650826250d5d9 39587454 bunsen-yaru-icons_24.04.3.orig.tar.gz
+ b1c8f4a41e74c4bbee20b72a1239bd3fb709797c 12048 bunsen-yaru-icons_24.04.3-1.1.debian.tar.xz
 Checksums-Sha256:
- 0e565bcf3f9a4610dd7e3ab80378df70350f0fabf77810fc875bc04da215b2ed 38447511 bunsen-yaru-icons_24.04.3.orig.tar.gz
- aa5f16fdb9134c04c11b38e5543da6d2269c9be4624e0a8e9575a84fd75875a7 12028 bunsen-yaru-icons_24.04.3-1.1.debian.tar.xz
+ ff4e8ebaba3f8e428e5fdea1213f700cabaceba939c2fe3d031409bc027ce386 39587454 bunsen-yaru-icons_24.04.3.orig.tar.gz
+ 8336e629a10db313c2681868dfeb8c8f149821351c392049189f48c175aeacb5 12048 bunsen-yaru-icons_24.04.3-1.1.debian.tar.xz
 Files:
- 2c1417520863be1dbe52c1827659c791 38447511 bunsen-yaru-icons_24.04.3.orig.tar.gz
- 9b3a21c12d381f67ca9681b696694c99 12028 bunsen-yaru-icons_24.04.3-1.1.debian.tar.xz
+ 21023e40bf586a5b06d00b5efa8ba698 39587454 bunsen-yaru-icons_24.04.3.orig.tar.gz
+ 7648e66462ebe04e85f78b10059afd08 12048 bunsen-yaru-icons_24.04.3-1.1.debian.tar.xz
