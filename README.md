@@ -1,3 +1,3 @@
 # bunsen-yaru-icons
 
-Yaru and Yaru-bark icons for BunsenLabs.
+Yaru, Yaru-bark and Yaru-sage icons for BunsenLabs.
